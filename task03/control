@@ -1,0 +1,8 @@
+Package: task03
+Version: 1.0
+Section: base
+Priority: optional
+Architecture: amd64
+Depends:
+Maintainer: volodymyr.novikov@globallogic.com
+Description: A simple RLE coding implementation for files
